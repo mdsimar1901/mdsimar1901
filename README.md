@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/md_simar" target="blank"><img src="https://img.shields.io/twitter/follow/md_simar?logo=twitter&style=for-the-badge" alt="md_simar" /></a> </p>
 
-- 🔭 I’m currently working on **CUDA Parallel processing**
+- 🔭 I’m currently working on ***REACT*
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **FLASK,REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdsimar1901](https://github.com/mdsimar1901)
 
