@@ -1,12 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohamed Simar</h1>
-<h3 align="center">A student and a passionate developer who also likes playing ctf's</h3>
+<h3 align="center">Student and a passionate developer,excited for more work! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsimar1901&label=Profile%20views&color=0e75b6&style=flat" alt="mdsimar1901" /> </p>
 
 <p align="left"> <a href="https://twitter.com/md_simar" target="blank"><img src="https://img.shields.io/twitter/follow/md_simar?logo=twitter&style=for-the-badge" alt="md_simar" /></a> </p>
 
-- 🔭 I’m currently working on ***REACT*
+- 🔭 I’m currently working on *Data Structres and Algorithms*
 
 - 🌱 I’m currently learning **FLASK,REACT**
 
